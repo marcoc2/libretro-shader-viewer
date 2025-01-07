@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/pixel_shader_viewer.dir/main.cpp.o -o pixel_shader_viewer  external/glad/libglad.a external/imgui/libimgui.a external/nfd/libnfd.a /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 /usr/lib/x86_64-linux-gnu/libGL.so -ldl -lgtk-3 -lgdk-3 -lz -lpangocairo-1.0 -lpango-1.0 -lharfbuzz -latk-1.0 -lcairo-gobject -lcairo -lgdk_pixbuf-2.0 -lgio-2.0 -lgobject-2.0 -lglib-2.0 

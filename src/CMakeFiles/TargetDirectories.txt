@@ -1,0 +1,14 @@
+/home/marco/workspace/libretro_shader_viewer/src/CMakeFiles/pixel_shader_viewer.dir
+/home/marco/workspace/libretro_shader_viewer/src/CMakeFiles/test_parser.dir
+/home/marco/workspace/libretro_shader_viewer/src/CMakeFiles/basic_shader_viewer.dir
+/home/marco/workspace/libretro_shader_viewer/src/CMakeFiles/edit_cache.dir
+/home/marco/workspace/libretro_shader_viewer/src/CMakeFiles/rebuild_cache.dir
+/home/marco/workspace/libretro_shader_viewer/src/external/glad/CMakeFiles/glad.dir
+/home/marco/workspace/libretro_shader_viewer/src/external/glad/CMakeFiles/edit_cache.dir
+/home/marco/workspace/libretro_shader_viewer/src/external/glad/CMakeFiles/rebuild_cache.dir
+/home/marco/workspace/libretro_shader_viewer/src/external/imgui/CMakeFiles/imgui.dir
+/home/marco/workspace/libretro_shader_viewer/src/external/imgui/CMakeFiles/edit_cache.dir
+/home/marco/workspace/libretro_shader_viewer/src/external/imgui/CMakeFiles/rebuild_cache.dir
+/home/marco/workspace/libretro_shader_viewer/src/external/nfd/CMakeFiles/nfd.dir
+/home/marco/workspace/libretro_shader_viewer/src/external/nfd/CMakeFiles/edit_cache.dir
+/home/marco/workspace/libretro_shader_viewer/src/external/nfd/CMakeFiles/rebuild_cache.dir
